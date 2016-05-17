@@ -30,6 +30,7 @@
     "babel-eslint": "^5.0.0",
     "eslint": "^1.6.0",
     "eslint-config-airbnb": "^3.1.0",
+    "eslint-config-netguru-ember": "0.0.3",
     "eslint-config-littlebits": "^0.3.0",
     "eslint-config-semistandard": "^5.0.0",
     "eslint-config-standard": "^4.4.0",
